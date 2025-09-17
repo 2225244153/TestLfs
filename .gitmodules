@@ -1,0 +1,3 @@
+[submodule "Submoduke/Lfs"]
+	path = Submoduke/Lfs
+	url = git@hf.co:datasets/HHDeXiaoHuangRen/Lfs.git
